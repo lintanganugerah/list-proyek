@@ -88,73 +88,14 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
 ---
 
 ### Node.js
-<details>
-  <summary><b>📌 Project 3 - Nama Project</b></summary>
-  <br>
-
-  ### 📖 Deskripsi
-  API server-side dengan Node.js.
-
-  ### 🛠️ Stack
-  - Node.js
-  - Express
-  - MongoDB
-
-  ### 📸 Demo
-  ![Demo Project](link-gambar-demo.png)
-
-  ### 🔗 Link
-  - [Repository](https://github.com/username/project-3)  
-  - [Live Demo](https://project3-demo.com)
-
-</details>
+Soon input disini project backend API
 
 ---
 
 ### React.js
-<details>
-  <summary><b>📌 Project 4 - Nama Project</b></summary>
-  <br>
-
-  ### 📖 Deskripsi
-  Dashboard admin interaktif menggunakan React.
-
-  ### 🛠️ Tech Stack
-  - React.js
-  - TailwindCSS
-  - Axios
-
-  ### 📸 Demo
-  ![Demo Project](link-gambar-demo.png)
-
-  ### 🔗 Link
-  - [Repository](https://github.com/username/project-4)  
-  - [Live Demo](https://project4-demo.com)
-
-</details>
+Soon input disini
 
 ---
 
 ### Next.js
-<details>
-  <summary><b>📌 Project 5 - Nama Project</b></summary>
-  <br>
-
-  ### 📖 Deskripsi
-  Website modern dengan Next.js dan SSR.
-
-  ### 🛠️ Tech Stack
-  - Next.js
-  - TypeScript
-  - TailwindCSS
-
-  ### 📸 Demo
-  ![Demo Project](link-gambar-demo.png)
-
-  ### 🔗 Link
-  - [Repository](https://github.com/username/project-5)  
-  - [Live Demo](https://project5-demo.com)
-
-</details>
-
-✨ *Terus berkembang & belajar teknologi baru untuk meningkatkan kualitas project ke depannya.*
+Soon input disini
