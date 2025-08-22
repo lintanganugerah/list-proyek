@@ -25,15 +25,16 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
   <br>
   
   ### 📸 Demo
-  ![Demo Project](link-gambar-demo.png)
+  ![Demo Project](https://github.com/lintanganugerah/list-proyek/blob/main/assets/kalasewa.gif)
 
   ### 📖 Deskripsi
-  Aplikasi manajemen data berbasis Laravel.
+  Aplikasi platform penyewaan untuk mengatasi masalah dalam penyewaan kostum cosplay. Menggunakan Agile sprints dan UAT lebih dari 10 pengguna. Implementasi pembayaran menggunakan Midtrans. Berhasil mengatasi permasalahan Penyewa (customer) dan pemilik kostum (owner / penjual)
 
-  ### 🛠️ Tech Stack
+  ### 🛠️ Stack
   - Laravel 10
   - MySQL
   - Bootstrap 5
+  - Midtrans
 
   ### 🔗 Link
   - [Live Demo](https://kalasewa.nzproject.web.id/)
