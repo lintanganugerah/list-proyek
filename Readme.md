@@ -8,12 +8,36 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
 ## 📑 Daftar Isi
 - [🌐 Web Development](#-web-development)
   - [Laravel](#laravel)
-  - [Golang](#golang)
   - [Node.js](#nodejs)
   - [React.js](#reactjs)
   - [Next.js](#nextjs)
 - [📱 Mobile Development](#-mobile-development)
   - [Flutter](#flutter)
+
+---
+
+## 📱 Mobile Development
+
+### Flutter
+<details>
+  <summary><b>FoodieFind - Dicoding</b></summary>
+  <br>
+  
+  ### 📸 Demo
+  <img src="https://github.com/lintanganugerah/list-proyek/blob/main/assets/foodiefind.gif" width="200"></img>
+
+  ### 📖 Deskripsi
+  Aplikasi mobile untuk mencari resep masakan dari berbagai negara. Merupakan salah satu project course Flutter Bootcamp Dicoding. Dibangun dengan arsitektur MVVM. Terintegrasi dengan API publik, dan menggunakan state management provider
+
+  ### 🛠️ Stack
+  - Flutter
+  - Provider
+  - API
+
+  ### 🔗 Link
+  - [Repository](https://github.com/lintanganugerah/FoodieFind)
+
+</details>
 
 ---
 
@@ -31,13 +55,33 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
   Aplikasi platform penyewaan untuk mengatasi masalah dalam penyewaan kostum cosplay. Menggunakan Agile sprints dan UAT lebih dari 10 pengguna. Implementasi pembayaran menggunakan Midtrans. Berhasil mengatasi permasalahan Penyewa (customer) dan pemilik kostum (owner / penjual)
 
   ### 🛠️ Stack
-  - Laravel 10
+  - Laravel 11
   - MySQL
   - Bootstrap 5
   - Midtrans
 
   ### 🔗 Link
   - [Live Demo](https://kalasewa.nzproject.web.id/)
+
+</details>
+
+<details>
+  <summary><b>BRIMEN</b></summary>
+  <br>
+  
+  ### 📸 Demo
+  ![Demo Project](https://github.com/lintanganugerah/list-proyek/blob/main/assets/brimen.gif)
+
+  ### 📖 Deskripsi
+  Website manajemen dokumen arsip untuk mempercepat pencarian dokumen, meningkatkan akurasi pencatatan, dan mengurangi risiko operasional.
+
+  ### 🛠️ Stack
+  - Laravel 10
+  - MySQL
+  - Bootstrap 5
+
+  ### 🔗 Link
+  - [Live Demo](https://docman.nzproject.web.id/)
 
 </details>
 
@@ -51,7 +95,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
   ### 📖 Deskripsi
   API server-side dengan Node.js.
 
-  ### 🛠️ Tech Stack
+  ### 🛠️ Stack
   - Node.js
   - Express
   - MongoDB
@@ -112,32 +156,5 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
   - [Live Demo](https://project5-demo.com)
 
 </details>
-
----
-
-## 📱 Mobile Development
-
-### Flutter
-<details>
-  <summary><b>FoodieFind - Dicoding</b></summary>
-  <br>
-  
-  ### 📸 Demo
-  ![Demo Project](link-gambar-demo.png)
-
-  ### 📖 Deskripsi
-  Aplikasi mobile untuk mencari resep masakah. Merupakan salah satu project course Flutter Bootcamp
-
-  ### 🛠️ Tech Stack
-  - Flutter
-  - Provider
-  - Public API
-
-  ### 🔗 Link
-  - [Repository](https://github.com/lintanganugerah/FoodieFind)
-
-</details>
-
----
 
 ✨ *Terus berkembang & belajar teknologi baru untuk meningkatkan kualitas project ke depannya.*
