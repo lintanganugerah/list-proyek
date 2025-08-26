@@ -20,7 +20,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
 
 ### Flutter
 <details>
-  <summary><b>FoodieFind - Dicoding</b></summary>
+  <summary><b>Recipe Finder App</b></summary>
   <br>
   
   ### 📸 Demo
@@ -45,7 +45,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
 
 ### Laravel
 <details>
-  <summary><b>Kalasewa</b></summary>
+  <summary><b>Kalasewa (Backend/Frontend)</b></summary>
   <br>
   
   ### 📸 Demo
@@ -66,7 +66,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
 </details>
 
 <details>
-  <summary><b>BRIMEN</b></summary>
+  <summary><b>BRIMEN (Backend/Frontend)</b></summary>
   <br>
   
   ### 📸 Demo
