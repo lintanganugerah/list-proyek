@@ -52,7 +52,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
   ![Demo Project](https://github.com/lintanganugerah/list-proyek/blob/main/assets/kalasewa.gif)
 
   ### 📖 Deskripsi
-  Aplikasi platform penyewaan untuk mengatasi masalah dalam penyewaan kostum cosplay. Menggunakan Agile sprints dan UAT lebih dari 10 pengguna. Implementasi pembayaran menggunakan Midtrans. Berhasil mengatasi permasalahan Penyewa (customer) dan pemilik kostum (owner / penjual)
+  Aplikasi platform penyewaan untuk mengatasi masalah dalam penyewaan kostum cosplay. Menggunakan Agile sprints dan UAT lebih dari 10 pengguna. Implementasi pembayaran menggunakan Midtrans. Berhasil mengatasi permasalahan Penyewa (customer) dan pemilik kostum (owner / penjual) berdasarkan hasil pengujian akhir dengan pengguna langsung
 
   ### 🛠️ Stack
   - Laravel 11
@@ -73,7 +73,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
   ![Demo Project](https://github.com/lintanganugerah/list-proyek/blob/main/assets/brimen.gif)
 
   ### 📖 Deskripsi
-  Website manajemen dokumen arsip untuk mempercepat pencarian dokumen, meningkatkan akurasi pencatatan, dan mengurangi risiko operasional.
+  Website manajemen dokumen arsip untuk mempercepat pencarian dokumen, meningkatkan akurasi pencatatan, dan mengurangi risiko operasional. Terdapat fitur manajemen data dan dokumen nasabah, autentikasi login role-based, manajemen user, riwayat semua aktivitas unit, dan catatan peminjaman dokumen
 
   ### 🛠️ Stack
   - Laravel 10
