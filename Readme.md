@@ -1,7 +1,7 @@
 ## 📂 LIST PROJECT
 
 Repository ini menyimpan segala list project yang pernah dibuat baik di bidang **Web Development** maupun **Mobile Development**.  
-Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Terdapat informasi singkat, demo foto/video, dan link deployment jika ada
+Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
 
 ---
 
