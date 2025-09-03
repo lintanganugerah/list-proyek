@@ -20,7 +20,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
 
 ### Flutter
 <details>
-  <summary><b>Recipe Finder App</b></summary>
+  <summary><b>FoodieFind</b></summary>
   <br>
   
   ### 📸 Demo
@@ -31,6 +31,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing. Ter
 
   ### 🛠️ Stack
   - Flutter
+  - Dart
   - Provider
   - API
 
