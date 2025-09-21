@@ -130,6 +130,8 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
   <summary><b>Sea Catering Frontend</b></summary>
   <br>
 
+  <img src="https://github.com/lintanganugerah/list-proyek/blob/main/assets/seacatering.gif" width="720"></img>
+
   ### 📖 Deskripsi
   Frontend untuk aplikasi SEA Catering, dibangun menggunakan React + TypeScript + Vite + Redux Toolkit Query. Frontend Terkoneksi dengan backend API, reusable components, responsive layout, dan user friendly.
   
