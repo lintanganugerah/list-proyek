@@ -98,6 +98,27 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
 </details>
 
 <details>
+  <summary><b>API Backend Spending Assistant</b></summary>
+  <br>
+  
+  ### 📸 Screenshot
+  <img src="" width="200"></img>
+
+  ### 📖 Deskripsi
+  Backend API untuk aplikasi web berbasis AI yang dirancang untuk membantu pengguna mengelola pembelian impulsif. API ini bertanggung jawab mengelola alur logika interaksi dengan LLM (via Openrouter) dan mengirimkan analisis serta saran keuangan secara real-time kepada pengguna menggunakan teknologi Server-Sent Events (SSE) yang efisien.
+
+  ### 🛠️ Stack
+  - Node js (Express)
+  - Javascript
+  - OpenAI SDK
+  - JOI (Validator)
+
+  ### 🔗 Link
+  - [Repository](https://github.com/lintanganugerah/flutter_restaurant)
+
+</details>
+
+<details>
   <summary><b>API Backend Web Portfolio</b></summary>
   <br>
 
