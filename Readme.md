@@ -105,7 +105,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
   <img src="" width="200"></img>
 
   ### 📖 Deskripsi
-  Backend API untuk aplikasi web berbasis AI yang dirancang untuk membantu pengguna mengelola pembelian impulsif. API ini bertanggung jawab mengelola alur logika interaksi dengan LLM (via Openrouter) dan mengirimkan analisis serta saran keuangan secara real-time kepada pengguna menggunakan teknologi Server-Sent Events (SSE) yang efisien.
+  Backend API untuk aplikasi web implementasi Generative AI yang dirancang untuk membantu pengguna mengelola pembelian impulsif. API ini bertanggung jawab mengelola alur logika interaksi dengan Generative AI (via Openrouter) dan mengirimkan analisis serta saran keuangan secara real-time kepada pengguna menggunakan teknologi Server-Sent Events (SSE) yang efisien.
 
   ### 🛠️ Stack
   - Node js (Express)
@@ -114,7 +114,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
   - JOI (Validator)
 
   ### 🔗 Link
-  - [Repository](https://github.com/lintanganugerah/flutter_restaurant)
+  - [Repository](https://github.com/lintanganugerah/spending-assistant)
 
 </details>
 
@@ -199,7 +199,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
   ![Demo Project](https://github.com/lintanganugerah/list-proyek/blob/main/assets/kalasewa.gif)
 
   ### 📖 Deskripsi
-  Aplikasi platform penyewaan untuk mengatasi masalah dalam penyewaan kostum cosplay. Menggunakan Agile sprints dan UAT lebih dari 10 pengguna. Implementasi pembayaran menggunakan Midtrans. Berhasil mengatasi permasalahan Penyewa (customer) dan pemilik kostum (owner / penjual) berdasarkan hasil pengujian akhir dengan pengguna langsung
+  Aplikasi platform penyewaan untuk mengatasi masalah dalam penyewaan kostum cosplay. Menggunakan Agile sprints dan UAT lebih dari 10 pengguna. Implementasi pembayaran menggunakan Midtrans. Berhasil mengatasi permasalahan Penyewa (customer) dan pemilik kostum (owner / penjual) berdasarkan hasil pengujian akhir dengan pengguna langsung. Merupakan project akhir dengan judul tesis "Perancangan Aplikasi Layanan Sewa Kostum Cosplay Umkm Berbasis Web Menggunakan Framework Laravel Dengan Fokus Pada Pemilik Sewa"
 
   ### 🛠️ Stack
   - Laravel 11
