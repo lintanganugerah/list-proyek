@@ -218,6 +218,7 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
   
   ### 📸 Demo
   ![Demo Project](https://github.com/lintanganugerah/list-proyek/blob/main/assets/brimen.gif)
+  
   Note: Semua data dokumen pada demo diatas hanyalah dummy data atau tidak real
 
   ### 📖 Deskripsi
