@@ -140,7 +140,8 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
   - Logger
 
   ### 🔗 Link
-  - [Repository](https://github.com/Mabaryok-co/portfoliobackend-boilerplate)
+  - [BE Repository](https://github.com/Mabaryok-co/portfoliobackend-boilerplate)
+  - [FE Repository](https://github.com/lintanganugerah/portfolio-frontend)
 
 </details>
 
@@ -182,15 +183,16 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
 
   ### 🔗 Link
   - [Website](https://lintang.dev)
-  - [Repository]([https://github.com/lintanganugerah/fullstack-mern-sea-compfest/tree/main/frontend](https://github.com/lintanganugerah/portfolio-frontend))
+  - [FE Repository](https://github.com/lintanganugerah/portfolio-frontend)
+  - [BE Repository](https://github.com/Mabaryok-co/portfoliobackend-boilerplate)
 
 </details>
 
 ---
 
-### Laravel
+### PHP Laravel
 <details>
-  <summary><b>Kalasewa (Backend/Frontend)</b></summary>
+  <summary><b>Kalasewa (Fullstack)</b></summary>
   <br>
   
   ### 📸 Demo
@@ -206,12 +208,12 @@ Project menggunakan berbagai macam teknologi sesuai kebutuhan masing-masing.
   - Midtrans
 
   ### 🔗 Link
-  - [Live Demo](https://kalasewa.nzproject.web.id/)
+  [Repository](https://github.com/lintanganugerah/kalasewa-render)
 
 </details>
 
 <details>
-  <summary><b>BRIMEN (Backend/Frontend)</b></summary>
+  <summary><b>BRIMEN (Fullstack)</b></summary>
   <br>
   
   ### 📸 Demo
